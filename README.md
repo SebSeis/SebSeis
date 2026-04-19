@@ -8,11 +8,13 @@ PhD researcher in construction management and informatics, developing ontology-b
 - Speiser, K., Seiß, S., Boukamp, F., Melzner, J., & Teizer, J. (2025). From fragmented data to unified construction safety knowledge: A process-based ontology framework for safer work. Automation in Construction.
 - Fauth, J., & Seiß, S. (2023). *Ontology for building permit authorities (OBPA) for advanced building permit processes*. Advanced Engineering Informatics.
 - Fauth, J., & Seiß, S. (2022). *A Decision Support System for the Building Permit Review Process*. International Journal of Innovation, Management and Technology.
-
 ### Links
 - [ResearchGate](https://www.researchgate.net/profile/Sebastian-Seiss)
 - [Google Scholar](https://scholar.google.de/citations?hl=de&user=Q3qoAvcAAAAJ)
 - [ORCID](https://orcid.org/0000-0001-5808-695X)
 - [LinkedIn](https://de.linkedin.com/in/sebastian-sei%C3%9F)
 - [Bauhaus-Universität Weimar](https://www.uni-weimar.de/de/bau-und-umwelt/professuren/baubetrieb-und-bauverfahren/personen/sebastian-seiss-msc/)
-- [OCQA](https://w3id.org/ocqa)
+- [OCQA Ontology](https://w3id.org/ocqa)
+- [UNOCS Ontology](https://sebseis.github.io/UNOCS/)
+- [BRIO Publication](https://sebseis.github.io/BRIO/)
+- [OBPA Ontology](https://sebseis.github.io/OBPA/)

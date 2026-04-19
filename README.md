@@ -16,5 +16,5 @@ PhD researcher in construction management and informatics, developing ontology-b
 - [Bauhaus-Universität Weimar](https://www.uni-weimar.de/de/bau-und-umwelt/professuren/baubetrieb-und-bauverfahren/personen/sebastian-seiss-msc/)
 - [OCQA Ontology](https://w3id.org/ocqa)
 - [UNOCS Ontology](https://sebseis.github.io/UNOCS/)
-- [BRIO Publication](https://sebseis.github.io/BRIO/)
+- [BRIO Ontology](https://sebseis.github.io/BRIO/)
 - [OBPA Ontology](https://sebseis.github.io/OBPA/)
